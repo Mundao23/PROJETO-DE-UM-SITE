@@ -60,12 +60,23 @@ section >.img{
     background-color: rgb(90, 95, 99);
     color:white;
     padding-bottom: 1em;
+    background-attachment: fixed;
 }
 section > .img > p{
-    background-color: rgba(0, 0, 0, 0.375);
+    background-color: rgba(0, 0, 0, 0.642);
    display: inline-block;
    padding: 5px;
-
+   text-shadow: 1px 1px 0px black;
+}
+#img01{
+    background-image: url(../img/transferir.jfif);
+    background-repeat: no-repeat;
+    background-size: 800px 700px;
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.63);
+}
+#img02{
+    background-image: url(../img/livro.jpg);
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.63);
 }
 footer{
     background-color: black;
