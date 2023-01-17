@@ -69,14 +69,16 @@ section > .img > p{
    text-shadow: 1px 1px 0px black;
 }
 #img01{
-    background-image: url(../img/transferir.jfif);
+    background-image: url(img/transferir.jfif);
     background-repeat: no-repeat;
-    background-size: 800px 700px;
+    background-size: 100vw 100vh;
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.63);
 }
 #img02{
-    background-image: url(../img/livro.jpg);
+    background-image: url(img/livro.jpg);
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.63);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
 }
 footer{
     background-color: black;
