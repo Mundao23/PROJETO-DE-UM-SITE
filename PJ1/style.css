@@ -31,6 +31,7 @@ section{
     font-family: 'Explora', cursive;
     font-size: 4.5vw;
     font-weight: bolder;
+    
 }
 
 a:hover{
@@ -51,11 +52,14 @@ a:link{
 section >.nor{
     background-color: white;
     color: black;
+    text-align: center;
+    padding-bottom: 1em;
 
 }
 section >.img{
     background-color: rgb(90, 95, 99);
     color:white;
+    padding-bottom: 1em;
 }
 section > .img > p{
     background-color: rgba(0, 0, 0, 0.375);
